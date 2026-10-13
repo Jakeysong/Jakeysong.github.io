@@ -1,4 +1,4 @@
-baseURL: "https://<你的github用户名>.github.io/"
+baseURL: "https://Jakeysong.github.io/"
 title: "学习笔记"
 theme: "PaperMod"
 
@@ -30,10 +30,10 @@ params:
 
   socialIcons:
     - name: github
-      url: "https://github.com/<你的github用户名>"
+      url: "https://github.com/Jakeysong"
 
   editPost:
-    URL: "https://github.com/<你的github用户名>/<仓库名>/edit/main/content"
+    URL: "https://github.com/Jakeysong/Jakeysong.github.io/edit/main/content"
     Text: "编辑本文"
     appendFilePath: true
 
